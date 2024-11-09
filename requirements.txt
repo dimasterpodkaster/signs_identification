@@ -1,0 +1,6 @@
+pillow~=11.0.0
+matplotlib~=3.9.2
+numpy~=1.26.4
+keras~=3.6.0
+tensorflow~=2.16.2
+scikit-learn~=1.5.2
